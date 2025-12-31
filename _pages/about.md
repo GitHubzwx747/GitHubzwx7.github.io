@@ -34,7 +34,7 @@ I have published more than 5 papers at the top international AI conferences or a
 
 ## Deep Generative Modeling
 
-<div class='paper-box'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/toflow.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **To-Flow: Efficient Continuous Normalizing Flows with Temporal Optimization Adjoint with Moving Speed**, Shian Du#, Yihong Luo#, Wei Chen#, Jian Xu, Delu Zeng*
@@ -61,7 +61,7 @@ I have published more than 5 papers at the top international AI conferences or a
 
 
 <div class='paper-box'>
-<div class='paper-box-image'><img src='images/reciprocalla.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-image'><img src='images/reciprocalla.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**ReciprocalLA-LLIE: Low-light image enhancement with luminance-aware reciprocal diffusion process**](https://doi.org/10.1016/j.neucom.2025.131438), Zhiqi Lin, Wei Chen, Jian Xu, Delu Zeng*, Min Chen
@@ -157,13 +157,13 @@ I have published more than 5 papers at the top international AI conferences or a
 # 🎖 Honors and Awards
   - *2021.10* None. 
 
-  # 📖 Educations
+# 📖 Educations
   - *2022.06 - 2026.06 (now)*, Ph.D. Candidate in Computational Mathematics, School of Mathematics, South China University of Technology (SCUT). 
   - *2021.09 - 2022.06*, M.S., Successive Master–Doctor Program in Computational Mathematics, School of Mathematics, South China University of Technology (SCUT).
   - *2017.09 - 2021.06*, B.S. in Statistics, School of Mathematics and Statistics, Wuhan University of Technology (WHUT). 
 
-  # 💬 Invited Talks
+# 💬 Invited Talks
   - *2021.06*, None. 
 
-  # 💻 Internships
+# 💻 Internships
   - *2026.02 - 2026.05*, [Tensor Learning Team of RIKEN AIP](https://qibinzhao.github.io/), Japan.
