@@ -47,17 +47,22 @@ redirect_from:
 - **其他涉及领域**：工程数学建模、人工智能与感知推理、最优化理论及应用、情感计算、通信／生物医学信息处理、物联网及软件定义网络等
 
 # 最新资讯
-- *2026.1*: Our paper about *Diffusion Bridge Variational Inference for Deep Gaussian Processes* is accepted to International Conference on Learning Representations (ICLR).
-- *2026.1*: Our paper about *Don't Forget Its Variance! The Minimum Path Variance Principle for Accurate and Stable Score-Based Density Ratio* is accepted to  International Conference on Learning Representations (ICLR).
-- *2025.10*: Our paper about *diffusion informer for time series modeling* is accepted to Expert Systems With Applications (ESWA).
-- *2025.10*: Our paper about *wavelet diffusion for time series modeling* is accepted to IEEE TIM.
-- *2025.09*: Our paper about *diffusion modeling acceleration* is accepted to NeurIPS 2025.
-- *2025.09*: Our paper about *normalizing flow* is accepted to Pattern Recognition (PR).
-- *2025.08*: Our paper about *diffusion models for low-level CV* is accepted to Neurocomputing.
-- *2025.10*: Our paper about *time series modeling* is accepted to IEEE Transactions on Instrumentation & Measurement (TIM).
-- *2025.05*: Our paper about *stable & efficient density ratio estimation* is accepted to ICML 2025.
-- *2024.06*: Our paper about *Sparse Inducing Points in Deep Gaussian Processes: Enhancing Modeling with Denoising Diffusion Variational Inference* is accepted to ICML 2024. 
-- *2022.02*: Our paper about *efficient continuous normalizing flow* is accepted to CVPR 2022. 
+- *2026.1*: Our paper "**Diffusion Bridge Variational Inference for Deep Gaussian Processes**" is accepted to **International Conference on Learning Representations (ICLR)**.
+- *2026.1*: Our paper "**Don't Forget Its Variance! The Minimum Path Variance Principle for Accurate and Stable Score-Based Density Ratio Estimation**" is accepted to **International Conference on Learning Representations (ICLR)**.
+- *2025.10*: Our paper "**Diffinformer: Diffusion Informer model for long sequence time-series forecasting**" is accepted to **Expert Systems with Applications (ESWA)**.
+- *2025.10*: Our paper "**Integrating Ordinary Differential Equations with Sparse Attention for Power Load Forecasting**" is accepted to **IEEE Transactions on Instrumentation and Measurement (TIM)**.
+- *2025.09*: Our paper "**EVODiff: Entropy-aware Variance Optimized Diffusion Inference**" is accepted to **NeurIPS 2025**.
+- *2025.09*: Our paper "**Entropy-informed weighting channel normalizing flow for deep generative models**" is accepted to **Pattern Recognition (PR)**.
+- *2025.09*: Our paper "**Fully Bayesian Differential Gaussian Processes through Stochastic Differential Equations**" is accepted to **Knowledge-Based Systems**.
+- *2025.08*: Our paper "**ReciprocalLA-LLIE: Low-light image enhancement with luminance-aware reciprocal diffusion process**" is accepted to **Neurocomputing**.
+- *2025.07*: Our paper "**Bayesian Gaussian Process ODEs via Double Normalizing Flows**" is accepted to **AISTATS 2025**.
+- *2025.05*: Our paper "**Dequantified Diffusion-Schrödinger Bridge for Density Ratio Estimation**" is accepted to **ICML 2025**.
+- *2024.10*: Our paper "**Neural Operator Variational Inference based on Regularized Stein Discrepancy for Deep Gaussian Processes**" is accepted to **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
+- *2024.06*: Our paper "**Sparse Inducing Points in Deep Gaussian Processes: Enhancing Modeling with Denoising Diffusion Variational Inference**" is accepted to **ICML 2024**.
+- *2024.02*: Our paper "**Sparse variational student-t processes**" is accepted to **AAAI 2024**.
+- *2024.06*: Our paper "**DeepAR-Attention probabilistic prediction for stock price series**" is accepted to **Neural Computing and Applications**.
+- *2024.06*: Our paper "**Neural ordinary differential equation networks for fintech applications using Internet of Things**" is accepted to **IEEE Internet of Things Journal (IoTJ)**.
+- *2022.02*: Our paper "**To-Flow: Efficient Continuous Normalizing Flows with Temporal Optimization Adjoint with Moving Speed**" is accepted to **CVPR 2022**.
 
 # 发表论文
 ## Deep Generative Modeling
@@ -65,7 +70,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><img src='images/evodiff.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**EVODiff: Entropy-aware Variance Optimized Diffusion Inference**](https://openreview.net/forum?id=rKASv92Myl), Shigui Li, **`Wei Chen`**, Delu Zeng*
+[**EVODiff: Entropy-aware Variance Optimized Diffusion Inference**](https://openreview.net/forum?id=rKASv92Myl), Shigui Li, Wei Chen, **`Delu Zeng*`**
 
 **NeurIPS 2025** \| [**Paper**](https://openreview.net/pdf?id=rKASv92Myl) \| [**Code**](https://github.com/ShiguiLi/EVODiff) \| [**News&#127881;**](https://mp.weixin.qq.com/s/mviiMgexMub_os4oSIdwiQ)
 
@@ -78,7 +83,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><img src='images/eiw_flow.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**Entropy-informed weighting channel normalizing flow for deep generative models**](https://doi.org/10.1016/j.patcog.2025.112442), **`Wei Chen`**#, Shian Du#, Shigui Li#, Delu Zeng*, John Paisley
+[**Entropy-informed weighting channel normalizing flow for deep generative models**](https://doi.org/10.1016/j.patcog.2025.112442), Wei Chen#, Shian Du#, Shigui Li#,**`Delu Zeng*`**, John Paisley
 
 **Pattern Recognition (PR) 2025** \| [**Paper**](https://doi.org/10.1016/j.patcog.2025.112442) \| [**Code**](https://github.com/ShianDu/EIW-Flow)
 
@@ -92,7 +97,7 @@ redirect_from:
 <div class='paper-box-image'><img src='images/reciprocalla.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**ReciprocalLA-LLIE: Low-light image enhancement with luminance-aware reciprocal diffusion process**](https://doi.org/10.1016/j.neucom.2025.131438), Zhiqi Lin, **`Wei Chen`**, Jian Xu, Delu Zeng*, Min Chen
+[**ReciprocalLA-LLIE: Low-light image enhancement with luminance-aware reciprocal diffusion process**](https://doi.org/10.1016/j.neucom.2025.131438), Zhiqi Lin, Wei Chen, Jian Xu, **`Delu Zeng*`**, Min Chen
 
 **Neurocomputing 2025** \| [**Paper**](https://doi.org/10.1016/j.neucom.2025.131438)
 
@@ -104,7 +109,50 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><img src='images/placeholder.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**Sparse Inducing Points in Deep Gaussian Processes: Enhancing Modeling with Denoising Diffusion Variational Inference**](https://proceedings.mlr.press/v235/xu24af.html), Jian Xu, Delu Zeng, John Paisley
+[**Fully Bayesian Differential Gaussian Processes through Stochastic Differential Equations**](https://www.sciencedirect.com/science/article/abs/pii/S0950705125002345), Jian Xu, Zhiqi Lin, Min Chen, Junmei Yang, **`Delu Zeng*`**, John Paisley
+
+**Knowledge-Based Systems** \| [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0950705125002345) \| [**Code**](https://github.com/xujianscut/FB-DIFFGP)
+
+-
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/placeholder.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**Variational Learning of Gaussian Process Latent Variable Models through Stochastic Gradient Annealed Importance Sampling**](https://openreview.net/forum?id=bTeogVkCmj), Jian Xu, Shian Du, Junmei Yang, Qianli Ma, **`Delu Zeng*`**
+
+**UAI 2025** \| [**Paper**](https://openreview.net/forum?id=bTeogVkCmj)
+
+-
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/placeholder.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**Sparse variational student-t processes**](https://ojs.aaai.org/index.php/AAAI/article/view/29549), Jian Xu, **`Delu Zeng*`**
+
+**AAAI 2024** \| [**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/29549)
+
+-
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/placeholder.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**Neural Operator Variational Inference based on Regularized Stein Discrepancy for Deep Gaussian Processes**](https://ieeexplore.ieee.org/abstract/document/10637293), Jian Xu, Shian Du, Junmei Yang, Qianli Ma, **`Delu Zeng*`**
+
+**IEEE Transactions on Neural Networks and Learning Systems (TNNLS)** \| [**Paper**](https://ieeexplore.ieee.org/abstract/document/10637293) \| [**Code**](https://github.com/xujianscut/NOVI-DGP)
+
+-
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/placeholder.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**Sparse Inducing Points in Deep Gaussian Processes: Enhancing Modeling with Denoising Diffusion Variational Inference**](https://proceedings.mlr.press/v235/xu24af.html), Jian Xu, **`Delu Zeng*`**, John Paisley
 
 **ICML 2024** \| [**Paper**](https://proceedings.mlr.press/v235/xu24af.html) \| [**Code**](https://github.com/xujianscut/DDVI-DGP)
 
@@ -115,7 +163,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><img src='images/toflow.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**To-Flow: Efficient Continuous Normalizing Flows with Temporal Optimization Adjoint with Moving Speed**](https://arxiv.org/abs/2203.10335), Shian Du#, Yihong Luo#, **`Wei Chen`**#, Jian Xu, Delu Zeng*
+[**To-Flow: Efficient Continuous Normalizing Flows with Temporal Optimization Adjoint with Moving Speed**](https://arxiv.org/abs/2203.10335), Shian Du#, Yihong Luo#, Wei Chen#, Jian Xu, **`Delu Zeng*`**
 
 **CVPR 2022** \| [**Paper**](https://arxiv.org/abs/2203.10335) \| [**Code**](https://github.com/ShianDu/TO-FLOW)
 
@@ -130,7 +178,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><img src='images/d3re.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**Dequantified Diffusion-Schrödinger Bridge for Density Ratio Estimation**](https://openreview.net/forum?id=zvyHCOcwsw), **`Wei Chen`**, Shigui Li, Jiacheng Li, Junmei Yang, John Paisley, Delu Zeng*
+[**Dequantified Diffusion-Schrödinger Bridge for Density Ratio Estimation**](https://openreview.net/forum?id=zvyHCOcwsw), Wei Chen, Shigui Li, Jiacheng Li, Junmei Yang, John Paisley,**`Delu Zeng*`**
 
 **ICML 2025** \| [**Paper**](https://openreview.net/forum?id=zvyHCOcwsw) \| [**Code**](https://github.com/Hoemr/Dequantified-Diffusion-Bridge-Density-Ratio-Estimation.git)
 
@@ -141,11 +189,21 @@ redirect_from:
 
 
 ## Time Series Forecast
+<div class='paper-box'><div class='paper-box-image'><img src='images/placeholder.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**Bayesian Gaussian Process ODEs via Double Normalizing Flows**](https://proceedings.mlr.press/v258/xu25b.html), Jian Xu, Shian Du, Junmei Yang, Xinghao Ding, **`Delu Zeng*`**, John Paisley
+
+**AISTATS 2025** \| [**Paper**](https://proceedings.mlr.press/v258/xu25b.html) \| [**Code**](https://github.com/xujianscut/GPODE-DNF)
+
+-
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/deepara.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**DeepAR-Attention probabilistic prediction for stock price series**](https://doi.org/10.1007/s00521-024-09916-3), Jiacheng Li, **`Wei Chen`**, Zhiheng Zhou, Junmei Yang, Delu Zeng*
+[**DeepAR-Attention probabilistic prediction for stock price series**](https://doi.org/10.1007/s00521-024-09916-3), Jiacheng Li, Wei Chen, Zhiheng Zhou, Junmei Yang, **`Delu Zeng*`**
 
 **Neural Computing and Applications 2024** \| [**Paper**](https://doi.org/10.1007/s00521-024-09916-3)
 
@@ -157,7 +215,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><img src='images/ODE_LSTM.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**Neural ordinary differential equation networks for fintech applications using Internet of Things**](https://doi.org/10.1109/JIOT.2024.3376748), Jiacheng Li, **`Wei Chen`**, Yican Liu, Junmei Yang, Delu Zeng*, Zhiheng Zhou
+[**Neural ordinary differential equation networks for fintech applications using Internet of Things**](https://doi.org/10.1109/JIOT.2024.3376748), Jiacheng Li, Wei Chen, Yican Liu, Junmei Yang, **`Delu Zeng*`**, Zhiheng Zhou
 
 **IEEE Internet of Things Journal (IoTJ) 2024** \| [**Paper**](https://doi.org/10.1109/JIOT.2024.3376748) 
 
@@ -169,7 +227,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><img src='images/evolvinformer.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**Integrating Ordinary Differential Equations with Sparse Attention for Power Load Forecasting**](https://doi.org/10.1109/TIM.2025.3581667), Jiacheng Li, **`Wei Chen`**, Yican Liu, Junmei Yang, Zhiheng Zhou, Delu Zeng*
+[**Integrating Ordinary Differential Equations with Sparse Attention for Power Load Forecasting**](https://doi.org/10.1109/TIM.2025.3581667), Jiacheng Li, Wei Chen, Yican Liu, Junmei Yang, Zhiheng Zhou, **`Delu Zeng*`**
 
 **IEEE Transactions on Instrumentation and Measurement (T-IM) 2025** \| [**Paper**](https://doi.org/10.1109/TIM.2025.3581667)
 
@@ -182,7 +240,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><img src='images/diffinformer.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**Diffinformer: Diffusion Informer model for long sequence time-series forecasting**](https://doi.org/10.1016/j.eswa.2025.129944), Jiacheng Li, **`Wei Chen`**, Yican Liu, Junmei Yang, Zhiheng Zhou, Delu Zeng*
+[**Diffinformer: Diffusion Informer model for long sequence time-series forecasting**](https://doi.org/10.1016/j.eswa.2025.129944), Jiacheng Li, Wei Chen, Yican Liu, Junmei Yang, Zhiheng Zhou, **`Delu Zeng*`**
 
 **Expert Systems with Applications (ESWA) 2025** \| [**Paper**](https://doi.org/10.1016/j.eswa.2025.129944)
 
