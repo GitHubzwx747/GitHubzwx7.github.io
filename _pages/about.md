@@ -61,7 +61,7 @@ redirect_from:
 - *2024.06*: Our paper "**Sparse Inducing Points in Deep Gaussian Processes: Enhancing Modeling with Denoising Diffusion Variational Inference**" is accepted to **ICML 2024**.
 - *2024.06*: Our paper "**DeepAR-Attention probabilistic prediction for stock price series**" is accepted to **Neural Computing and Applications**.
 - *2024.06*: Our paper "**Neural ordinary differential equation networks for fintech applications using Internet of Things**" is accepted to **IEEE Internet of Things Journal (IoTJ)**.
-- *2024.02*: Our paper "**Sparse variational student-t processes**" is accepted to **AAAI 2024**.
+- *2023.12*: Our paper "**Sparse variational student-t processes**" is accepted to **AAAI 2024**.
 
 # 发表论文
 ## Deep Generative Modeling
