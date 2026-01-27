@@ -23,9 +23,32 @@ redirect_from:
 
 
 # 🔥 News
- 
+- *2026.1*: Our paper about *Diffusion Bridge Variational Inference for Deep Gaussian Processes* is accepted to International Conference on Learning Representations (ICLR).
+- *2026.1*: Our paper about *Don't Forget Its Variance! The Minimum Path Variance Principle for Accurate and Stable Score-Based Density Ratio* is accepted to  International Conference on Learning Representations (ICLR).
+- *2025.10*: Our paper about *diffusion informer for time series modeling* is accepted to Expert Systems With Applications (ESWA).
+- *2025.10*: Our paper about *wavelet diffusion for time series modeling* is accepted to IEEE TIM.
+- *2025.09*: Our paper about *diffusion modeling acceleration* is accepted to NeurIPS 2025.
+- *2025.09*: Our paper about *normalizing flow* is accepted to Pattern Recognition (PR).
+- *2025.08*: Our paper about *diffusion models for low-level CV* is accepted to Neurocomputing.
+- *2025.10*: Our paper about *time series modeling* is accepted to IEEE Transactions on Instrumentation & Measurement (TIM).
+- *2025.05*: Our paper about *stable & efficient density ratio estimation* is accepted to ICML 2025.
+- *2024.06*: Our paper about *Sparse Inducing Points in Deep Gaussian Processes: Enhancing Modeling with Denoising Diffusion Variational Inference* is accepted to ICML 2024. 
+- *2022.02*: Our paper about *efficient continuous normalizing flow* is accepted to CVPR 2022. 
 
 # 📝 Publications 
+## Deep Generative Modeling
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/evodiff.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**EVODiff: Entropy-aware Variance Optimized Diffusion Inference**](https://openreview.net/forum?id=rKASv92Myl), Shigui Li, **`Wei Chen`**, Delu Zeng*
+
+**NeurIPS 2025** \| [**Paper**](https://openreview.net/pdf?id=rKASv92Myl) \| [**Code**](https://github.com/ShiguiLi/EVODiff) \| [**News&#127881;**](https://mp.weixin.qq.com/s/mviiMgexMub_os4oSIdwiQ)
+
+- Introduces an information-theoretic view: successful denoising reduces conditional entropy in reverse transitions.
+- Proposes EVODiff, a reference-free diffusion inference framework that optimizes conditional variance to reduce transition and reconstruction errors, improving sample quality and reducing inference cost.
+</div>
+</div>
 
 
 
